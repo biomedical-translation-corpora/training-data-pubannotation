@@ -21,9 +21,7 @@ PubAnnotation offers many interesting features:
 We plan to create one project in PubAnnotation for each language in each language pair.
 For instance, for the language pair Chinese-English, we would have one project in Chinese and one in English, both containing the same number of documents and the same PMIDs. 
 During the hackathon, we plan to generate the various projects, 14 of them in total, one for each language direction for all seven language pairs. 
-Further, we plan to use the newly created resources for downloading the abstracts and 
-%applying them for 
-training our baseline systems.
+Further, we plan to use the newly created resources for downloading the abstracts and training our baseline systems.
 
 We also plan to assess the impact using PubAnnotation for building these resources, in particular from the perspective of reproducibility. 
 For instance, if we chose to have just one repository for each language of the language pairs, which would evolve (increase) every year, this means that we could not have different versions of the training data associated to each edition of the challenge.
