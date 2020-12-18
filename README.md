@@ -27,7 +27,6 @@ Further, we plan to use the newly created resources for downloading the abstract
 training our baseline systems.
 
 We also plan to assess the impact using PubAnnotation for building these resources, in particular from the perspective of reproducibility. 
-%We also plan to assess the impact of the problems that might occur when using PubAnnotation for building these resources.
 For instance, if we chose to have just one repository for each language of the language pairs, which would evolve (increase) every year, this means that we could not have different versions of the training data associated to each edition of the challenge.
 This could be problematic if researchers plan to reproduce a particular system that was based only on training data available for a particular year. One solution to this issue could be to record a log of the PMIDs used in each edition of the campaign, to be included in the repository metadata. 
 Further, previously, we have aligned the parallel abstracts in both language, i.e., specifying the one or more sentences in one language that correspond to one or more sentence in the other language.
