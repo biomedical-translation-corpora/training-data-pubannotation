@@ -17,7 +17,6 @@ As alternative to this, we propose to use [PubAnnotation](http://www.pubannotati
 PubAnnotation offers many interesting features:
 (a) the possibility of adding new PMID collections at any time;
 (b) a newly implemented feature to specify which language data should be downloaded;
-%for a particular PMID;
 (c) no need to release the documents, since they are available in PubAnnotation.
 
 We plan to create one project in PubAnnotation for each language in each language pair.
