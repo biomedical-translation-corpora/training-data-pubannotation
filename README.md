@@ -10,7 +10,7 @@ In the most recent edition of the shared task, we addressed seven languages pair
 the biomedical literature test sets, namely: English to and from Chinese, French, German, Italian, Portuguese, Russian, and Spanish.
 
 MEDLINE contains many parallel abstracts, i.e., abstracts which are available in more than one language, for instance, the article referenced with the PubMed identifier (PMID) [32074817](https://pubmed.ncbi.nlm.nih.gov/32074817/) is available in Chinese, with title and abstract both in Chinese and English.
-Because our test sets are derived from MEDLINE, participants are asked to not download the database by themselves and instead, consider using the MEDLINE training data that we [release](https://github.com/biomedical-translation-corpora/corpora). Currently, we release the training data for some of the languages in a zip file format in the task shared folder. 
+Because our test sets are derived from MEDLINE, participants are asked to *not* download the database by themselves and instead, consider using the MEDLINE training data that we [release](https://github.com/biomedical-translation-corpora/corpora). Currently, we release the training data for some of the languages in a zip file format in the task shared folder. 
 Since new parallel abstracts are available every year, this means releasing new zip files every year, or creating a new joint single zip file.
 
 As alternative to this, we propose to use [PubAnnotation](http://www.pubannotation.org/) for creating a collection of the parallel abstracts that we consider for our training data.
