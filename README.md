@@ -5,7 +5,7 @@ Machine translation (MT) of the biomedical literature can support researchers in
 Thus, bringing novel information for researchers and health professionals who could not read those documents otherwise.
 
 With this aim, we have been organizing the [WMT Biomedical task](http://www.statmt.org/wmt20/biomedical-translation-task.html) since 2016. 
-In the most recent edition of the [shared task](http://www.statmt.org/wmt20/biomedical-translation-task.html), we addressed seven languages pairs for 
+In the most recent edition of the shared task, we addressed seven languages pairs for 
 %the MEDLINE 
 the biomedical literature test sets, namely: English to and from Chinese, French, German, Italian, Portuguese, Russian, and Spanish.
 
