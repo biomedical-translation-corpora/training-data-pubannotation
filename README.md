@@ -1,5 +1,5 @@
 
-# Generation of Parallel Corpora in PubAnnotationfor the WMT Biomedical Task
+# Generation of Parallel Corpora in PubAnnotation for the WMT Biomedical Task
 
 Machine translation (MT) of the biomedical literature can support researchers in various tasks. In the current COVID-19 pandemic, the translation into English of scientific publications only available in other languages, i.e. [Chinese](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30375-5/fulltext), can contribute to widen the availability of data on an emerging disease.
 Thus, bringing novel information for researchers and health professionals who could not read those documents otherwise.
