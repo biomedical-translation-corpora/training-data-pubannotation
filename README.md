@@ -6,7 +6,6 @@ Thus, bringing novel information for researchers and health professionals who co
 
 With this aim, we have been organizing the [WMT Biomedical task](http://www.statmt.org/wmt20/biomedical-translation-task.html) since 2016. 
 In the most recent edition of the shared task, we addressed seven languages pairs for 
-%the MEDLINE 
 the biomedical literature test sets, namely: English to and from Chinese, French, German, Italian, Portuguese, Russian, and Spanish.
 
 MEDLINE contains many parallel abstracts, i.e., abstracts which are available in more than one language, for instance, the article referenced with the PubMed identifier (PMID) [32074817](https://pubmed.ncbi.nlm.nih.gov/32074817/) is available in Chinese, with title and abstract both in Chinese and English.
