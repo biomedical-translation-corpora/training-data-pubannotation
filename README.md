@@ -21,7 +21,6 @@ PubAnnotation offers many interesting features:
 
 We plan to create one project in PubAnnotation for each language in each language pair.
 For instance, for the language pair Chinese-English, we would have one project in Chinese and one in English, both containing the same number of documents and the same PMIDs. 
-%We created one pilot project to illustrate this approach.
 During the hackathon, we plan to generate the various projects, 14 of them in total, one for each language direction for all seven language pairs. 
 Further, we plan to use the newly created resources for downloading the abstracts and 
 %applying them for 
