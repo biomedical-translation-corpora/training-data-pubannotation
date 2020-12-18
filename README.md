@@ -30,8 +30,6 @@ Further, previously, we have aligned the parallel abstracts in both language, i.
 However, as far as we know, annotations across documents, and across projects, are not allowed in PubAnnotation.
 Finally, we need to check whether the PubAnnotation format for the textual files is a format that could be well accepted by the MT community.
 
----
-
 ## Team
 
 - [Mariana Neves](https://mariananeves.github.io/), German Federal Institute for Risk Assessment (Germany)
