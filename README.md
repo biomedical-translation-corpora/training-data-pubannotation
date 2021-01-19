@@ -34,7 +34,7 @@ Finally, we need to check whether the PubAnnotation format for the textual files
 
 Language pair | English repo. | Foreign Lang. repo. 
 --------------|---------------|--------------------
-en/de | (English)[http://pubannotation.org/projects/Training_Data_English_de_en] | (German)[http://pubannotation.org/projects/Training_Data_German_de_en]
+en/de | [English](http://pubannotation.org/projects/Training_Data_English_de_en) | [German](http://pubannotation.org/projects/Training_Data_German_de_en)
 
 ## Team
 
