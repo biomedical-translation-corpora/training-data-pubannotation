@@ -30,6 +30,12 @@ Further, previously, we have aligned the parallel titles and abstracts in both l
 However, as far as we know, annotations across documents, and across projects, are not allowed in PubAnnotation.
 Finally, we need to check whether the PubAnnotation format for the textual files is a format that could be well accepted by the MT community.
 
+## PubAnnotation repositories
+
+Language pair | English repo. | Foreign Lang. repo. 
+--------------|---------------|--------------------
+en/de | (English)[http://pubannotation.org/projects/Training_Data_English_de_en] | (German)[http://pubannotation.org/projects/Training_Data_German_de_en]
+
 ## Team
 
 - [Mariana Neves](https://mariananeves.github.io/), German Federal Institute for Risk Assessment (Germany)
