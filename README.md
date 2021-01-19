@@ -32,9 +32,12 @@ Finally, we need to check whether the PubAnnotation format for the textual files
 
 ## PubAnnotation repositories
 
-Language pair | English repo. | Foreign Lang. repo. 
+We created repositories for each language in each language pair.
+
+Language pair | English | Foreign Language 
 --------------|---------------|--------------------
-en/de | [English](http://pubannotation.org/projects/Training_Data_English_de_en) | [German](http://pubannotation.org/projects/Training_Data_German_de_en)
+en/de | [Training_Data_English_de_en](http://pubannotation.org/projects/Training_Data_English_de_en) | [Training_Data_German_de_en](http://pubannotation.org/projects/Training_Data_German_de_en)
+en/it | [Training_Data_English_it_en](http://pubannotation.org/projects/Training_Data_English_it_en) | [Training_Data_Italian_it_en](http://pubannotation.org/projects/Training_Data_Italian_it_en)
 
 ## Team
 
