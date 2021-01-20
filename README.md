@@ -40,7 +40,7 @@ en/de | [Training_Data_English_de_en](http://pubannotation.org/projects/Training
 en/it | [Training_Data_English_it_en](http://pubannotation.org/projects/Training_Data_English_it_en) | [Training_Data_Italian_it_en](http://pubannotation.org/projects/Training_Data_Italian_it_en)
 en/ru | [Training_Data_English_ru_en](http://pubannotation.org/projects/Training_Data_English_ru_en) | [Training_Data_Russian_ru_en](http://pubannotation.org/projects/Training_Data_Russian_ru_en)
 en/fr |[Training_Data_English_fr_en	](http://pubannotation.org/projects/Training_Data_English_fr_en) | [Training_Data_French_fr_en](http://pubannotation.org/projects/Training_Data_French_fr_en)
-en/pt | | 
+en/pt | [Training_Data_English_pt_en](http://pubannotation.org/projects/Training_Data_English_pt_en) | [Training_Data_Portuguese_pt_en](http://pubannotation.org/projects/Training_Data_Portuguese_pt_en)
 en/es | [Training_Data_English_es_en](http://pubannotation.org/projects/Training_Data_English_es_en) | [Training_Data_Spanish_es_en](http://pubannotation.org/projects/Training_Data_Spanish_es_en)
 en/zh | [Training_Data_English_zh_en](http://pubannotation.org/projects/Training_Data_English_zh_en) | [Training_Data_Chinese_zh_en](http://pubannotation.org/projects/Training_Data_Chinese_zh_en)
 en/ja | [Training_Data_English_ja_en](http://pubannotation.org/projects/Training_Data_English_ja_en) | [Training_Data_Japanese_ja_en](http://pubannotation.org/projects/Training_Data_Japanese_ja_en)
