@@ -42,7 +42,7 @@ en/ru | [Training_Data_English_ru_en](http://pubannotation.org/projects/Training
 en/fr |[Training_Data_English_fr_en	](http://pubannotation.org/projects/Training_Data_English_fr_en/jobs) | [Training_Data_French_fr_en](http://pubannotation.org/projects/Training_Data_French_fr_en/jobs)
 en/pt | | 
 en/es | | 
-en/zh | | 
+en/zh | [Training_Data_English_zh_en](http://pubannotation.org/projects/Training_Data_English_zh_en) | [Training_Data_Chinese_zh_en](http://pubannotation.org/projects/Training_Data_Chinese_zh_en)
 en/ja | |
 
 ## Team
