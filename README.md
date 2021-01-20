@@ -45,6 +45,15 @@ en/es | |
 en/zh | [Training_Data_English_zh_en](http://pubannotation.org/projects/Training_Data_English_zh_en) | [Training_Data_Chinese_zh_en](http://pubannotation.org/projects/Training_Data_Chinese_zh_en)
 en/ja | |
 
+## Tasks
+
+- Create Pubmed resources for the languages [OK]
+- Create repositories in PubAnnotation
+- Double-check the language of the abstracts
+- Enforce the same number of documentos in both repositories of a language pair
+- Mine additional PMIDs for the repositories
+- Evaluate repositories by training one (or more) of our baseline MT systems
+
 ## Team
 
 - [Mariana Neves](https://mariananeves.github.io/), German Federal Institute for Risk Assessment (Germany)
