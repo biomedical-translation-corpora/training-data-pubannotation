@@ -41,7 +41,7 @@ en/it | [Training_Data_English_it_en](http://pubannotation.org/projects/Training
 en/ru | [Training_Data_English_ru_en](http://pubannotation.org/projects/Training_Data_English_ru_en/jobs) | [Training_Data_Russian_ru_en](http://pubannotation.org/projects/Training_Data_Russian_ru_en/jobs)
 en/fr |[Training_Data_English_fr_en	](http://pubannotation.org/projects/Training_Data_English_fr_en/jobs) | [Training_Data_French_fr_en](http://pubannotation.org/projects/Training_Data_French_fr_en/jobs)
 en/pt | | 
-en/es | | 
+en/es | [Training_Data_English_es_en](http://pubannotation.org/projects/Training_Data_English_es_en/jobs) | [Training_Data_Spanish_es_en](http://pubannotation.org/projects/Training_Data_Spanish_es_en)
 en/zh | [Training_Data_English_zh_en](http://pubannotation.org/projects/Training_Data_English_zh_en) | [Training_Data_Chinese_zh_en](http://pubannotation.org/projects/Training_Data_Chinese_zh_en)
 en/ja | |
 
