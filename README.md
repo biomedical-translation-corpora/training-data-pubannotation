@@ -50,10 +50,12 @@ en/ja | [Training_Data_English_ja_en](http://pubannotation.org/projects/Training
 - Create Pubmed resources for the languages [OK]
 - Create repositories in PubAnnotation [OK, but some errors for fr, es, pt, ja]
 - Double-check the language of the abstracts 
-  - en (en/de): many sentences in German
+  - en (en/de): many sentences in de
   - de (en/de): few in en
-  - en (en/it): many in Italian and German
+  - en (en/it): many in it and de
   - it (en/it): none
+  - en (en/ru): many from sk and sl
+  - ru (en/ru): none
   - ...
 - Enforce the same number of documentos in both repositories of a language pair
 - Mine additional PMIDs for the repositories
