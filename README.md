@@ -52,6 +52,8 @@ en/ja | [Training_Data_English_ja_en](http://pubannotation.org/projects/Training
 - Double-check the language of the abstracts 
   - en (en/de): many sentences in German
   - de (en/de): few in en
+  - en (en/it): many in Itlian and German
+  - it (en/it): none
 - Enforce the same number of documentos in both repositories of a language pair
 - Mine additional PMIDs for the repositories
 - Evaluate repositories by training one (or more) of our baseline MT systems
