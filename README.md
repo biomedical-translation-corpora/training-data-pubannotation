@@ -48,7 +48,7 @@ en/ja | [Training_Data_English_ja_en](http://pubannotation.org/projects/Training
 ## Tasks
 
 - Create Pubmed resources for the languages [OK]
-- Create repositories in PubAnnotation
+- Create repositories in PubAnnotation [OK]
 - Double-check the language of the abstracts
 - Enforce the same number of documentos in both repositories of a language pair
 - Mine additional PMIDs for the repositories
